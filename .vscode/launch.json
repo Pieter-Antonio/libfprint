@@ -5,7 +5,7 @@
       "type": "cppdbg",
       "name": "Launch examples/img-capture",
       "request": "launch",
-      "program": "${workspaceFolder}/_build/examples/img-capture",
+      "program": "${workspaceFolder}/build/examples/img-capture",
       "args": [],
       "stopAtEntry": false,
       "cwd": "${fileDirname}",
