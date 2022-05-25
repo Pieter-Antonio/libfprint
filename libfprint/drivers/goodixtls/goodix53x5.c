@@ -24,7 +24,7 @@
 #include <string.h>
 
 #include "drivers_api.h"
-#include "goodix.h"
+#include "wrapless.h"
 #include "goodix_proto.h"
 #include "goodix53x5.h"
 
